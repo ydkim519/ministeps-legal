@@ -6,12 +6,6 @@ title: MiniSteps Privacy Policy
 
 **Last Updated: August 31, 2026**
 
-...
-
-# Privacy Policy - MiniSteps Mobile Application
-
-**Last Updated: August 31, 2026**
-
 ## Introduction
 
 ASHLAR USA ("we," "our," or "us") develops and operates MiniSteps ("MiniSteps" or the "App").
